@@ -9,7 +9,6 @@ Este projeto consiste no desenvolvimento de um compilador para a linguagem Ja, q
 
 **Executar**
 
-Utilizar os shell scripts (ficheiros com extensão ".sh") que se encontram na pasta das metas em Linux ou macOS. Ou compilar e 
-correr ficheiros lex e yacc. 
+Utilizar os shell scripts (ficheiros com extensão ".sh") de cada meta em Linux/macOS ou compilar e correr ficheiros lex e yacc. 
 
 **Para mais informações acerca da linguagem consultar o enunciado do projeto**
