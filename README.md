@@ -3,9 +3,9 @@ Este projeto consiste no desenvolvimento de um compilador para a linguagem Ja, q
 
 **Tecnologias**
 
-- Analisador lexical: Lex
+- Parsing de tokens utilizando expressões regulares no analisador lexical Lex
 
-- Parser: Yacc
+- Fase sintática e semântica utilizam o parser Yacc e AST's como estruturas de dados centrais pós-parsing 
 
 **Executar**
 
